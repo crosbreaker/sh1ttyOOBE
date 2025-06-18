@@ -1,11 +1,11 @@
 ## sh1tty00be 
 **Unenrollment until next powerwash on 133-138**
 
-**1. ** Powerwash your Chromebook
-**2. ** On the "welcome to your Chromebook" screen wait until you see the quick set up with android button (DO NOT PRESS GET STARTED IF IT DOESN'T SHOW IMMEDIATELY)
-**3. ** Hit `CTRL`+`ALT`+`SHIFT`+`R` and click "cancel"
-**4. ** Click "Enter your google account email and password" it should say to connect to a network
-**5. ** Open quick settings from the bottom right and connect to a network
+1. Powerwash your Chromebook
+2. On the "welcome to your Chromebook" screen wait until you see the quick set up with android button (DO NOT PRESS GET STARTED IF IT DOESN'T SHOW IMMEDIATELY)
+3. Hit `CTRL`+`ALT`+`SHIFT`+`R` and click "cancel"
+4. Click "Enter your google account email and password" it should say to connect to a network
+5. Open quick settings from the bottom right and connect to a network
 
 ## Persistence method
 After signing in you can sign out and you will be back on the welcome screen, click quick setup with android phone and then hit `CTRL`+`ALT`+`SHIFT`+`R`  and click cancel, then sign in again. After that you are done and can sign out/reboot and it will be persistent
