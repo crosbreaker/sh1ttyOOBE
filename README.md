@@ -1,4 +1,4 @@
-## sh1tty00be 
+## sh1ttyOOBE
 **Unenrollment until next powerwash on 133-138**
 
 1. Powerwash your Chromebook
