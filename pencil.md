@@ -22,4 +22,4 @@ p = Pencil
 | Dedede    | Cr50/p  |
 | Nissa   | Ti50/ps  |
 
-Please view the [web builder](https://binbashbanana.github.io/badrecovery/builder.html), it may be easier as there are no prebuilts.
+Please view the [web builder](https://binbashbanana.github.io/badrecovery/builder.html) for badrecovery, it may be easier as there are no prebuilts.
