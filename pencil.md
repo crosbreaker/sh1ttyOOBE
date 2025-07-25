@@ -12,5 +12,14 @@ reboot -f
 ```
 6.  Reboot, dev mode will now boot successfully
 ### Confused on if your device needs pencil or pencil sharpener? 
-View the table on [code_execution.md](./code_execution.md) \
+Please refer to the below table of common keyrolled devices and their tpm versions. \
+key: \
+ps = PencilSharpener \
+p = Pencil
+| Devices   | TPM version   |
+|-----------|-------|
+| Corsola     | Ti50/ps  |
+| Dedede    | Cr50/p  |
+| Nissa   | Ti50/ps  |
+
 Please view the [web builder](https://binbashbanana.github.io/badrecovery/builder.html), it may be easier as there are no prebuilts.
