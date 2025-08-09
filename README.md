@@ -2,7 +2,7 @@
 **Unenrollment until next powerwash on 133-138**
 
 1. Powerwash your Chromebook
-2. On the "welcome to your Chromebook" screen wait until you see the quick set up with android button (DO NOT PRESS GET STARTED IF IT DOESN'T SHOW IMMEDIATELY)
+2. On the "welcome to your Chromebook" screen wait until you see the quick set up with android button (DO NOT PRESS GET STARTED IF IT DOESN'T SHOW IMMEDIATELY), then press the button (this should be inferred, apparntly some people are to stupid for this :sob:)
 3. Hit `CTRL`+`ALT`+`SHIFT`+`R` and click "cancel"
 4. Click "Enter your google account email and password" it should say to connect to a network
 5. Open quick settings from the bottom right and connect to a network
