@@ -1,5 +1,5 @@
 ## sh1ttyOOBE (formerly oobescape2)
-**Unenrollment until next powerwash on 133-138**
+**Unenrollment until next powerwash on 135-137**
 
 1. Powerwash your Chromebook
 2. On the "welcome to your Chromebook" screen wait until you see the quick set up with android button (DO NOT PRESS GET STARTED IF IT DOESN'T SHOW IMMEDIATELY), then press the button (this should be inferred, apparntly some people are to stupid for this :sob:)
