@@ -13,7 +13,7 @@ After signing in you can sign out and you will be back on the welcome screen, pr
 After you have done the persistence method, you can recover to modified recovery images in unverified recovery, because vpd is not blocking developer mode.  This can be used to obtain a root shell even on keyrolled devices via [badrecovery unverified](https://github.com/BinBashBanana/badrecovery#:~:text=unverified,-version), and can be used to remove fwmp when used with [badbr0ker](https://github.com/crosbreaker/badbr0ker)
 
 # credits
- - Lxrd: Finding the vulnerability
- - HarryJarry1: finding the vpd vulnerability
- - crossjbly: testing, persistence method
- - all other members of crosbreaker: uhh idk think of something
+ - [Lxrd/SPIRAME](https://github.com/SPIRAME): Finding the vulnerability
+ - [HarryJarry1](http://github.com/HarryJarry1): reading logs to figure out sh1ttyOOBE allows for badrecovery unverified (leading to [badbr0ker](https://github.com/crosbreaker/badbr0ker))
+ - [crossjbly](https://github.com/crossjbly): testing, persistence method
+ - [all other members of crosbreaker](https://github.com/crosbreaker): uhh idk
