@@ -6,7 +6,7 @@
 5.  run the commands below:  
 ```bash
 flashrom --wp-disable
-futility gbb -s --flash --flags=0x8090
+futility gbb -s --flash --flags=0x80b1
 flashrom --wp-enable
 reboot -f
 ```
