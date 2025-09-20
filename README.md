@@ -15,6 +15,6 @@ After you have done the persistence method, you can recover to modified recovery
 
 # Credits
  - [Lxrd/SPIRAME](https://github.com/SPIRAME): Finding the vulnerability
- - [HarryJarry1](http://github.com/HarryJarry1): reading logs to figure out sh1ttyOOBE disables enforced rootfs verification in developer mode recovery while enrolled, allowing [badrecovery unverified](https://github.com/BinBashBanana/badrecovery) to work. (leading to [badbr0ker](https://github.com/crosbreaker/badbr0ker))
+ - [HarryTarryJarry](http://github.com/HarryTarryJarry): reading logs to figure out sh1ttyOOBE disables enforced rootfs verification in developer mode recovery while enrolled, allowing [badrecovery unverified](https://github.com/BinBashBanana/badrecovery) to work. (leading to [badbr0ker](https://github.com/crosbreaker/badbr0ker))
  - [crossjbly](https://github.com/crossjbly): testing, persistence method
  - [all other members of crosbreaker](https://github.com/crosbreaker): uhh idk
