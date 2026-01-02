@@ -3,7 +3,7 @@
 # Support
 If you need any kind of support, please join our [discord server](https://discord.gg/nrMVY29MUb) for help
 1. Powerwash your Chromebook
-2. On the "welcome to your Chromebook" screen, wait until you see the quick setup with Android button (DO NOT PRESS GET STARTED IF IT DOESN'T SHOW IMMEDIATELY), then press the button (this should be inferred, apparently some people are too stupid for this 😭)
+2. On the "welcome to your Chromebook" screen, wait until you see the quick setup with Android button (DO NOT PRESS GET STARTED IF IT DOESN'T SHOW IMMEDIATELY), once it appears, press the button
 3. Hit `CTRL`+`ALT`+`SHIFT`+`R` and click "cancel"
 4. Click "Enter your Google account email and password." It should say to connect to a network
 5. Open quick settings from the bottom right and connect to a network
