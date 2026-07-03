@@ -1,5 +1,7 @@
 ## sh1ttyOOBE (formerly oobescape2)
-**Unenrollment until next powerwash on 135-137**
+> [!CAUTION]
+> ### This is only works on 135-137. Use quicksilver or something similar if you are above this version. See [sh1ttyexec](https://github.com/crosbreaker/sh1ttyexec) for more information.
+
 # Support
 If you need any kind of support, please join our [discord server](https://discord.gg/nrMVY29MUb) for help
 1. Powerwash your Chromebook
